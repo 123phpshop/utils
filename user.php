@@ -1,0 +1,10 @@
+<?php
+class User {
+	
+	// ×¢²á
+	public function register() {
+	}
+	
+	// µÇÂ¼
+	
+}
